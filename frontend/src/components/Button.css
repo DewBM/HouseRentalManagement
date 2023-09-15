@@ -1,0 +1,12 @@
+.button-home{
+    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width: 300px;
+    background-color: #4169E1;
+    padding: 5px;
+    margin: 20px;
+    font-style: italic;
+    font-family: monospace;
+    font-size: large;
+    font-weight: bolder;
+}
